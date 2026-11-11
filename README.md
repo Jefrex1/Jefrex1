@@ -1,4 +1,4 @@
-# Hi, I'm Orest 👋
+# Hi! Welcome to my Github, I'm Orest 👋
 
 Junior full-stack developer from Lviv, Ukraine, working mostly with TypeScript, Next.js and Node.js. I like turning ideas into working things, whether it's a web app, a bot or a mod.
 
