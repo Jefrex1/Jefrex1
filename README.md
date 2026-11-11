@@ -1,59 +1,45 @@
-## Hi there 👋
+# Hi, I'm Orest 👋
 
-<!--
-**Jefrex1/Jefrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior full-stack developer from Lviv, Ukraine, working mostly with TypeScript, Next.js and Node.js. I like turning ideas into working things, whether it's a web app, a bot or a mod.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-<h1 align="center">Hi! Welcome to my Github, I'm Orest</h1>
-<p align="center">I'm a <b>Frontend Developer.
-  
-<div align="center">
-  <a href="https://github.com/Jefrex1/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-</br>
-<hr>
-<div >
-  <p>These are my <b>current knowledge:</b></p>
-  <ul>
-    <li>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=csharp" />
-      <img src="https://img.shields.io/badge/C%2FC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/.NET-404DFF?style=for-the-badge&logo=.net&logoColor=white" />
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    </li>
-  </ul>
-</div>
--->
+**Backend:**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Etc:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Projects
+
+- 🖥️ **[vital-server](https://github.com/Jefrex1/vital-server)**: web-based SSH file manager with a built-in terminal, editor and system metrics (Next.js, Node.js, Express, SSH/SFTP)
+- 🎨 **[Landing-Page-Positivus](https://github.com/Jefrex1/Landing-Page-Positivus)**: responsive landing page built from a Figma design with plain HTML, CSS and vanilla JS ([live demo](https://jefrex1.github.io/Landing-Page-Positivus/))
+
+## Interests
+
+- Minecraft modding (NeoForge, Java) and server administration
+- Linux, SSH and everything around running servers
+- Building things with TypeScript and Node.js
+
+## Currently
+
+- Getting better at JavaScript and frontend development
+- Looking for opportunities to grow as a developer
+
+## Contact
+
+- GitHub: [@Jefrex1](https://github.com/Jefrex1)
+- Email: <oorest06@gmail.com>
